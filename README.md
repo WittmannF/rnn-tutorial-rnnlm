@@ -1,3 +1,6 @@
+# Updates from original branch
+- Python 3 compatibility for Numpy Version
+
 **[Please read the blog post that goes with this code!](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)**
 
 ### Jupyter Notebook Setup
